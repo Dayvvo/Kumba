@@ -1,5 +1,5 @@
 Requirements of starting the project:
-1. Yarn \
+1. Yarn 
 2. Node 
 
 #   INSTRUCTIONS TO START THE PROJECT

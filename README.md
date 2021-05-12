@@ -10,7 +10,7 @@ Requirements of starting the project:
 
 #   HOW WOULD YOUR PROJECT CHANGE IF YOU HAD MORE ITEMS(SAY 7+ Items)
 
-Answer: One the amount of items would be too much for the user to keep scrolling. Hence one would have to factor in pagination into the mapping of the items array                        to allow the user view a specific amount of items on a page
+Answer: One the amount of items would be too much for the user to keep scrolling. Hence one would have to factor in pagination into displaying the items                        to allow the user view a specific amount of items on a page
 
 
 

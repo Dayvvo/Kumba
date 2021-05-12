@@ -1,6 +1,6 @@
 Requirements of starting the project:
 Yarn \
-Node \
+Node 
 
 #   INSTRUCTIONS TO START THE PROJECT
   1   Navigate to git bash/cmd and enter the following command: git clone https://github.com/Dayvvo/Kumba.git \

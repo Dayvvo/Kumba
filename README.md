@@ -1,3 +1,17 @@
+#   INSTRUCTIONS TO START THE PROJECT
+  1   Navigate to git bash/cmd and enter the following command: git clone https://github.com/Dayvvo/Kumba.git
+  2.  Navigate into the project(cd kumba) and enter the following command: yarn add
+  3.  Enter the following command: yarn start
+  4.  Proceed to your browser and enter http://localhost:3000/
+
+#   HOW WOULD YOUR PROJECT CHANGE IF YOU HAD MORE ITEMS(SAY 7+ Items)
+
+Answer: One the amount of items would be too much for the user to keep scrolling. Hence one would have to factor in pagination into the mapping of the items array                        to allow the user view a specific amount of items on a page
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

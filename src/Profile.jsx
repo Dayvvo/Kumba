@@ -50,7 +50,7 @@ function Profile() {
                         <div className="d-flex justify-content-between">
                             <div className=''>
                             <div className="d-flex h3 font-weight-bold black">
-                                <i onClick={()=>togglenav()} className="cursor fa fa-bars mr-3 mb-3"></i>
+                                <i onClick={()=>togglenav()} className="cursor d-inline d-lg-none fa fa-bars mr-3 mb-3"></i>
                                 <div>
                                     Profile
                                     

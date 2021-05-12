@@ -1,7 +1,7 @@
 #   INSTRUCTIONS TO START THE PROJECT
   1   Navigate to git bash/cmd and enter the following command: git clone https://github.com/Dayvvo/Kumba.git. \
-  2.  Navigate into the project(cd kumba) and enter the following command: yarn add. \
-  3.  Enter the following command: yarn start. \
+  2.  Navigate into the project(cd kumba) and enter the following command: yarn add \
+  3.  Enter the following command: yarn start \
   4.  Proceed to your browser and enter http://localhost:3000/ 
 
 #   HOW WOULD YOUR PROJECT CHANGE IF YOU HAD MORE ITEMS(SAY 7+ Items)
